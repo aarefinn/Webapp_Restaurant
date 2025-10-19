@@ -39,7 +39,7 @@ A modern and versatile restaurant web application with a user-friendly interface
 ## 🏁 Getting Started
 
 git clone https://github.com/aarefinn/webapp-restaurant.git
-cd webapp-restaurant
+cd Webapp_Restaurant
 
 Start PHP server:
 php -S localhost:8080
@@ -64,8 +64,6 @@ MIT License
 ## 🤝 Contact
 
 For support, questions or contributions, open an issue or connect via hello@syedarefin.dev
-
-
 
 Clone this repository:
 
