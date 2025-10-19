@@ -52,7 +52,6 @@ Then visit [http://localhost:8080](http://localhost:8080) in your browser.
 ## 👥 Contributors
 
 - Syed Shamsul Arefin ([aarefinn](https://github.com/aarefinn))
-- [Add others as needed]
 
 ---
 
