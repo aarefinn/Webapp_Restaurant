@@ -64,7 +64,7 @@ MIT License
 
 ## 🤝 Contact
 
-For support, questions or contributions, open an issue or connect via [your-email@example.com].
+For support, questions or contributions, open an issue or connect via hello@syedarefin.dev
 
 
 
